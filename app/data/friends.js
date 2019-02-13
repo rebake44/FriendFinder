@@ -1,7 +1,7 @@
 var friends = [
     {
         name: "Alison",
-        photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+        photo: "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
         scores: [
             "5",
             "1",
@@ -17,7 +17,7 @@ var friends = [
     },
     {
         name: "Elise",
-        photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+        photo: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         scores: [
             "4",
             "2",
@@ -33,7 +33,7 @@ var friends = [
     },
     {
         name: "Julye",
-        photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+        photo: "https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         scores: [
             "5",
             "2",
@@ -49,7 +49,7 @@ var friends = [
     },
     {
         name: "Kara",
-        photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+        photo: "https://images.pexels.com/photos/638700/pexels-photo-638700.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         scores: [
             "3",
             "3",
@@ -65,7 +65,7 @@ var friends = [
     },
     {
         name: "Gayle",
-        photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+        photo: "https://images.pexels.com/photos/355164/pexels-photo-355164.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         scores: [
             "4",
             "3",
@@ -81,7 +81,7 @@ var friends = [
     },
     {
         name: "Suzy",
-        photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+        photo: "https://images.pexels.com/photos/458718/pexels-photo-458718.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         scores: [
             "4",
             "4",
